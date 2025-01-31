@@ -1,4 +1,4 @@
-import { hello } from '../functions.js'
+import { hello } from '../hello.js'
 
 describe("A suite", function() {
     it("contains spec with an expectation", function() {
